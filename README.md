@@ -6,3 +6,4 @@ My plan is to start by reading the following books and write a weekly summary of
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron
 - Mathematics for Machine Learning" by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong
 
+Furthemore, every chapter of the Hands-On book, I would upload a small project to solidifies my knowledge of the chapter
