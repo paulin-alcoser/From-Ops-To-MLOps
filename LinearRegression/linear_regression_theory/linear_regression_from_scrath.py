@@ -1,3 +1,4 @@
+# Code obtain from https://towardsdatascience.com/coding-linear-regression-from-scratch-c42ec079902
 
 import numpy as np
 import matplotlib.pyplot as plt
