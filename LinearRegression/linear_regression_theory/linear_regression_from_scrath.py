@@ -9,6 +9,7 @@ mu = []
 std = []
 
 def load_data(filename):
+	# Read File 
 	df = pd.read_csv(filename, sep=",", index_col=False)
 	df.columns = ["housesize", "rooms", "price"]
 	data = np.array(df, dtype=float)
